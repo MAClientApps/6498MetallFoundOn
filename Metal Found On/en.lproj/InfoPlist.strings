@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  MetalDetector
+
+  Created by Kirill Sedliarov on 14.11.22.
+  
+*/
+
+NSCameraUsageDescription = "This app needs to use your camera for the ruler and protractor features.";
+SFBundleDisplayName = "Metal Finder On";

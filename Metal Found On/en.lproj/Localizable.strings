@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  BuilderHelper
+
+  Created by Kirill Sedliarov on 12.11.22.
+  
+*/
+
+"firstOnBoardingHeader" = "Detect Metall
+Things";
+
+"secondOnBoardingHeader" = "Get a Digital
+Toolbox";
+
+"thirdOnBoardingHeader" = "Measure with
+Camera";
+
+"continueOnBoarding" = "Continue";
+
+"subscribeFreeTrial" = "7-day
+free trial";
+
+"subscribeHeader" = "Unlock All Access";
+"subscribeTitleLim" = "No Limits";
+"subscribeTitleAds" = "No Ads";
+
+"subscribeWeekly" = "weekly";
+"subscribeYearly" = "yearly";
+"subscribeMonthly" = "monthly";
+
+"titleRuler" = "Ruler";
+"titleMetal" = "Metal Finder On";
+"titleLevel" = "Level";
+"titleProtractor" = "Protractor";
+"titleSetting" = "Setting";
+
+"iconMetal" = "Metal";
+"iconMeasure" = "Measure";
+
+"min" = "min";
+"medium" = "medium";
+"max" = "max";
+
+"settingUnlock" = "Unlock All Features";
+"settingRateUs" = "Rate Us";
+"settingSupport" = "Support";
+"settingPrivacyPolicy" = "Privacy Policy";
+"settingTermsOfUse" = "Terms of Use";
+"settingShareTheApp" = "Share the App";
+"settingSound" = "Sound";
+"settingVibrate" = "Vibrate";
+
+"buttonDone" = "Done";
+"buttonRestore" = "Restore";
+"buttonBack" = "Back";
+
+"alertOk" = "OK";
+"alertYes" = "Yes";
+"alertNo" = "No";
+"alertCancel" = "Cancel";
+"alertSetting" = "Setting";
+"alertDontAllow" = "Don't Allow";
+"alertRate" = "Do You Like This App?";
+
+"alertRestore" = "No Subscription Found";
+"alertRestoreDiscription" = "You have not previously subscribed to
+\"Metal Detector\" using this Apple ID.";
+
+"alertMove" = "Point your device up towards the sky
+and move it in a figure 8 motion.
+This will calibrate the sensor
+and make measurements more accurate";
+
+"alertCameraPermission" = "Camera Permission";
+"alertPermissionDenied" = "The app does not have permission to
+ use the camera. This app needs to
+ use your camera for the ruler and
+ protractor features. Please set
+ camera usage permission in settings
+ for work.";
